@@ -1,0 +1,47 @@
+a:hover {
+    text-decoration: underline;
+}
+.name {
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+}
+.name:hover {
+    color: #000000;
+}
+.black_back {
+    background-color: #343a40;
+}
+.paragraph {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 3rem;
+}
+.text_block_1 {
+    font-size: 1.10rem;
+}
+.text_block_2 {
+    font-size: 1.10rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+.text_block_2:hover {
+    color: #ffffff;
+}
+.card_text {
+    width: 20rem;
+}
+.name_of_card {
+    font-family:"Times New Roman", serif;  
+    font-weight: 700;
+}
+
+.line {
+    display: block;
+    height: 1px;
+}
+.circle {
+    border-radius: 2rem;
+}
+
